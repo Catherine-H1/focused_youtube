@@ -4,7 +4,7 @@
 
 :heart: FY **does not track any user data**. It's a simple Vanilla JS application made with only one purpose – to help you avoid YouTube's rabbit hole.
 
-## Screenshots
+## Hello WOrld
 
 ### 🏠 Distraction-free YouTube homepage.
 
